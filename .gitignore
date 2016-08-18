@@ -1,0 +1,7 @@
+# Virtualenv stuff
+bin/
+include/
+lib/
+local/
+pip-selfcheck.json
+share/
