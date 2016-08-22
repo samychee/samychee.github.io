@@ -5,3 +5,6 @@ lib/
 local/
 pip-selfcheck.json
 share/
+
+# Python stuff
+*.pyc
