@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Gina Chee</title>
+    <title>About Me</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
@@ -17,7 +17,9 @@
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="/static/styles.css">
+
+    
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -40,20 +42,20 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand page-scroll" href="index.html">Gina Chee</a>
+          <a class="navbar-brand page-scroll" href="/">Gina Chee</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
             <li>
-              <a class="page-scroll" href="index.html">About</a>
+              <a class="page-scroll" href="/about">About</a>
             </li>
             <li>
-              <a class="page-scroll" href="portfolio.html">Portfolio</a>
+              <a class="page-scroll" href="/portfolio">Portfolio</a>
             </li>
             <li>
-              <a class="page-scroll" href="#contact">Contact</a>
+              <a class="page-scroll" href="/">Contact</a>
             </li>
           </ul>
         </div>
@@ -62,14 +64,26 @@
       <!-- /.container-fluid -->
     </nav>
 
-    <header>
-      <div class="header-content">
-        <div class="header-content-inner">
-          <h1>Gina Chee's Website</h1>
-          <hr>
-          <p>Hi, I'm Gina Chee</p>
-          <a href="#" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
-        </div>
+    
+<div class="container-fluid">
+  <h1 class="header-text">About Gina</h1>
+  <div class="col-xs-6">
+    <img src="/static/images/profile_picture.jpg" class="img-portfolio">
+  </div>
+  <div class="col-xs-4">
+    <p class="bio-text">
+    From the time Gina Chee was only a toddler, she knew she had a passion for drawing. Even as a young child, Gina would spend hours and hours on her desk drawing things such as butterflies and clouds, and after receiving praise from her parents and friends, she began to expand her skills outside art classes. From early elementary school, she began learning graphite, pastel, and watercolor and later studied painting in middle school, with studio art teacher Xinsheng Wang. It was there where she fell in love with acrylic and oil painting, and it quickly became her most favorite and strongest mediums. In high school, Gina&#39;s technical skills and aesthetic developed, as she joined her high school&#39;s art program, under the teachings of Donna reedy. After nearly 12 years of hard work and creativity, Gina had strongly developed her own personal style, and has continued to expand her knowledge of art through her paintings and drawings, and has advanced a deep appreciation for may different forms of art, including her recent experimentations with digital art. It&#39;s because of the love and encouragement through her family, friends, peers, and art teachers that Gina has been able to continuously do what she loves most and receive recognition for her talents.
+    </p>
+  </div>
+</div>
+
+
+    <footer class="footer">
+      <div class="container">
+        <p class="text-muted">
+        Gina Chee (c) 2016. All Rights Reserved.
+        </p>
       </div>
-    </header>
+    </footer>
+  </body>
 </html>

@@ -4,6 +4,8 @@ from flask import url_for
 
 
 def init_config(app):
+    # set up freezer config
+    app.config.from_pyfile('settings.py')
     # set up json config
     app.config.from_json('data.json')
     categories = dict()
@@ -20,10 +22,6 @@ def init_config(app):
     for idx, image in enumerate(flat_list):
         image['back'] = flat_list[idx - 1]
         image['forward'] = flat_list[(idx + 1) % num_images]
-
-    # set up freezer configs
-    app.config['FREEZER_DEFAULT_MIMETYPE'] = 'text/html'
-    app.config['FREEZER_RELATIVE_URLS'] = True
 
 
 app = Flask(__name__)

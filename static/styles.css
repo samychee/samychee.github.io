@@ -6,12 +6,16 @@
 
 html,
 body {
+    position: relative;
+    min-height: 100%;
     height: 100%;
     width: 100%;
 }
 body {
     font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
     padding-top: 65px;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
 }
 hr {
     border-color: #f05f40;
@@ -25,7 +29,6 @@ a {
     -webkit-transition: all 0.35s;
     -moz-transition: all 0.35s;
     transition: all 0.35s;
-    color: #f05f40;
 }
 a:hover,
 a:focus {
@@ -37,7 +40,7 @@ h1 {
 p {
     font-size: 16px;
     line-height: 1.5;
-    margin-bottom: 20px;
+    margin: 20px 0;
 }
 .navbar-default {
     background-color: white;
@@ -279,10 +282,75 @@ fieldset[disabled] .btn-primary.active {
     border-color: transparent;
 }
 
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
+
 .footer .container {
-    padding-top: 50px;
+    padding-top: 15px;
+    padding-left: 15px;
 }
 
 body {
     webkit-tap-highlight-color: #222222;
+}
+
+.header-text {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.img-portfolio {
+    max-width: 100%;
+    max-height: 90vh;
+    float: right;
+    padding-left: 1%;
+}
+
+.art-description {
+    font-size: 20px;
+}
+
+.bio-text {
+    font-size: 18px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.category-header {
+    padding-left: 2%;
+}
+
+.carousel-button {
+    display: block;
+    position: fixed;
+    top: 50px;
+    height: 100%;
+    background-color: white;
+    text-align: center;
+    width: 4em;
+    color: transparent;
+}
+
+.carousel-button:hover {
+    color: #e0e0e0;
+    background-color: #efefef;
+}
+
+.carousel-button-back {
+    left: 0px;
+}
+
+.carousel-button-forward {
+    right: 0px;
+}
+
+span.glyphicon {
+    position: relative;
+    font-size: 3em;
+    top: 40%;
 }
