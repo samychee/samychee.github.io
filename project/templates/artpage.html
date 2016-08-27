@@ -2,7 +2,7 @@
 {% block title %}{{ image.NAME }}{% endblock %}
 {% block javascript %}<script src="{{ url_for('static', filename='javascript/artpage.js') }}"></script>{% endblock %}
 {% block content %}
-<a href="/images/{{ image.back.FILENAME }}" class="carousel-button carousel-button-back">
+<a href="{{ url_for('image_page', image_id=image.back.id + '.html') }}" class="carousel-button carousel-button-back">
   <span class="glyphicon glyphicon-triangle-left"></span>
   <span class="sr-only">Back</span>
 </a>
@@ -24,7 +24,7 @@
     {% endif %}
   </div>
 </div>
-<a href="/images/{{ image.forward.FILENAME }}" class="carousel-button carousel-button-forward">
+<a href="{{ url_for('image_page', image_id=image.forward.id + '.html') }}" class="carousel-button carousel-button-forward">
   <span class="glyphicon glyphicon-triangle-right"></span>
   <span class="sr-only">Forward</span>
 </a>

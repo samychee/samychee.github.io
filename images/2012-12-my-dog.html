@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>{% block title %}{% endblock %}</title>
+    <title></title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
@@ -17,9 +17,9 @@
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" type="text/css" href="/static/styles.css">
 
-    {% block javascript %}{% endblock %}
+    <script src="/static/javascript/artpage.js"></script>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -42,20 +42,20 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand page-scroll" href="{{ url_for('index') }}">Gina Chee</a>
+          <a class="navbar-brand page-scroll" href="/">Gina Chee</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
             <li>
-              <a class="page-scroll" href="{{ url_for('about') }}">About</a>
+              <a class="page-scroll" href="/about.html">About</a>
             </li>
             <li>
-              <a class="page-scroll" href="{{ url_for('portfolio') }}">Portfolio</a>
+              <a class="page-scroll" href="/portfolio.html">Portfolio</a>
             </li>
             <li>
-              <a class="page-scroll" href="{{ url_for('index') }}">Contact</a>
+              <a class="page-scroll" href="/">Contact</a>
             </li>
           </ul>
         </div>
@@ -64,7 +64,30 @@
       <!-- /.container-fluid -->
     </nav>
 
-    {% block content %}{% endblock %}
+    
+<a href="/images/2012-12-19-the-maidens-prayer.html" class="carousel-button carousel-button-back">
+  <span class="glyphicon glyphicon-triangle-left"></span>
+  <span class="sr-only">Back</span>
+</a>
+<div class="container-fluid">
+  <div class="col-xs-6">
+    <a href="/static/images/portfolio/2012-12-my-dog.png">
+      <img src="/static/images/portfolio/2012-12-my-dog.png" class="img-portfolio">
+    </a>
+  </div>
+  <div class="col-xs-6">
+    <h1></h1>
+    <p class="art-description">
+    Medium: 
+    </p>
+    
+  </div>
+</div>
+<a href="/images/2013-10-reading.html" class="carousel-button carousel-button-forward">
+  <span class="glyphicon glyphicon-triangle-right"></span>
+  <span class="sr-only">Forward</span>
+</a>
+
 
     <footer class="footer">
       <div class="container">

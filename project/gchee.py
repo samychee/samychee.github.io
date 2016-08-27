@@ -12,7 +12,8 @@ def init_config(app):
     num_images = len(app.config['IMAGES'])
     # group together categories
     for image in app.config['IMAGES']:
-        app.config[image['FILENAME']] = image
+        image['id'] = image['FILENAME'][:image['FILENAME'].rfind('.')]
+        app.config[image['id']] = image
         if image['CATEGORY'] not in categories:
             categories[image['CATEGORY']] = []
         categories[image['CATEGORY']].append(image)
@@ -38,11 +39,11 @@ def portfolio():
     return render_template('portfolio.html', categories=app.config['categories'])
 
 
-@app.route('/images/<name>')
-def image_page(name=None):
-    if name is None:
-        return portfolio()
-    return render_template('artpage.html', image=app.config[name])
+@app.route('/images/<image_id>')
+def image_page(image_id=None):
+    # remove the '.html'
+    image_id = image_id[:-5]
+    return render_template('artpage.html', image=app.config[image_id])
 
 
 @app.route('/about.html')
