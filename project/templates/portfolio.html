@@ -13,7 +13,7 @@
     <h2 class="category-header col-lg-12">{{ category[0] }}</h2>
     {% for image in category[1] %}
     <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-      <a href="images/{{ image.FILENAME }}" class="thumbnail">
+      <a href="/images/{{ image.FILENAME }}" class="thumbnail">
         <img src="{{ url_for('static', filename='images/thumbnail/' + image.FILENAME) }}" class="img-thumbnail">
       </a>
     </div>
