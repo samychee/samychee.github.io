@@ -29,4 +29,5 @@ FREEZER_DESTINATION_IGNORE = [
     'project/',
     '.git*',
     '*.sh',
+    '*.bat',
     '*.py']
