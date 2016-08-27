@@ -1,20 +1,31 @@
 {% extends "base.html" %}
 {% block title %}{{ image.NAME }}{% endblock %}
+{% block javascript %}<script src="{{ url_for('static', filename='javascript/artpage.js') }}"></script>{% endblock %}
 {% block content %}
-<h1 class="header-text">{{ image.NAME }}</h1>
-<div class="col-xs-8">
-  <a href="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}">
-    <img src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio">
-  </a>
+<a href="/images/{{ image.back.FILENAME }}" class="carousel-button carousel-button-back">
+  <span class="glyphicon glyphicon-triangle-left"></span>
+  <span class="sr-only">Back</span>
+</a>
+<div class="container-fluid">
+  <div class="col-xs-{{ 6 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 8}}">
+    <a href="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}">
+      <img src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio">
+    </a>
+  </div>
+  <div class="col-xs-{{ 6 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 4 }}">
+    <h1>{{ image.NAME }}</h1>
+    <p class="art-description">
+    Medium: {{ image.MEDIUM }}
+    </p>
+    {% if image.DESCRIPTION %}
+    <p class="art-description">
+    {{ image.DESCRIPTION }}
+    </p>
+    {% endif %}
+  </div>
 </div>
-<div class="col-xs-4">
-  <p class="art-description">
-  Medium: {{ image.MEDIUM }}
-  </p>
-  {% if image.DESCRIPTION %}
-  <p class="art-description">
-  {{ image.DESCRIPTION }}
-  </p>
-  {% endif %}
-</div>
+<a href="/images/{{ image.forward.FILENAME }}" class="carousel-button carousel-button-forward">
+  <span class="glyphicon glyphicon-triangle-right"></span>
+  <span class="sr-only">Forward</span>
+</a>
 {% endblock %}

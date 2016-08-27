@@ -4,88 +4,143 @@
             "FILENAME":"2011-05-21-my-home-town.jpg",
             "NAME":"My Home Town",
             "MEDIUM":"watercolor",
-            "DESCRIPTION":"This is my home town yo"
+            "DESCRIPTION":"This is my home town yo",
+            "ORIENTATION":"landscape",
+            "CATEGORY":"Landscape"
         },
         {
-            "FILENAME":"2011-10-22.jpg"
+            "FILENAME":"2011-10-22.jpg",
+            "ORIENTATION":"landscape",
+            "CATEGORY":"Landscape"
         },
         {
             "FILENAME":"2012-12-19-the-maidens-prayer.png",
             "NAME":"The Maiden's Prayer",
             "MEDIUM":"Oil",
-            "DESCRIPTION":"Scholastic Gold Key Award, 2012"
+            "DESCRIPTION":"Scholastic Gold Key Award, 2012",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Portrait"
         },
         {
-            "FILENAME":"2012-12-my-dog.png"
+            "FILENAME":"2012-12-my-dog.png",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Portrait"
         },
         {
-            "FILENAME":"2013-05.png"
+            "FILENAME":"2013-05.png",
+            "ORIENTATION":"landscape",
+            "CATEGORY":"Landscape"
         },
         {
-            "FILENAME":"2013-08-searching-for-dreams.png"
+            "FILENAME":"2013-08-searching-for-dreams.png",
+            "ORIENTATION":"landscape",
+            "CATEGORY":"Landscape"
         },
         {
-            "FILENAME":"2013-10-reading.png"
+            "FILENAME":"2013-10-reading.png",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Portrait"
         },
         {
-            "FILENAME":"2013-12-folk-dancing.png"
+            "FILENAME":"2013-12-folk-dancing.png",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Square"
         },
         {
-            "FILENAME":"2014-03-pastel.jpg"
+            "FILENAME":"2014-03-pastel.jpg",
+            "MEDIUM":"Pastel",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Misc"
         },
         {
-            "FILENAME":"2014-05-24.jpg"
+            "FILENAME":"2014-05-24.jpg",
+            "ORIENTATION":"landscape",
+            "CATEGORY":"Sketches"
         },
         {
-            "FILENAME":"2014-09-20.jpg"
+            "FILENAME":"2014-09-20.jpg",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Sketches"
         },
         {
-            "FILENAME":"2015-12-oriental-bellade.png"
+            "FILENAME":"2015-12-oriental-bellade.png",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Portrait"
         },
         {
-            "FILENAME":"2016-03-contentment.png"
+            "FILENAME":"2016-03-contentment.png",
+            "ORIENTATION":"landscape",
+            "CATEGORY":"Landscape"
         },
         {
-            "FILENAME":"cultural-appropriation1.png"
+            "FILENAME":"cultural-appropriation1.png",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Graphic Design"
         },
         {
-            "FILENAME":"cute-as-a-button.png"
+            "FILENAME":"cute-as-a-button.png",
+            "ORIENTATION":"landscape",
+            "CATEGORY":"Landscape"
         },
         {
-            "FILENAME":"drapery-pastel.jpg"
+            "FILENAME":"drapery-pastel.jpg",
+            "MEDIUM":"Pastel",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Misc"
         },
         {
-            "FILENAME":"drapery-with-emphasis.jpg"
+            "FILENAME":"drapery-with-emphasis.jpg",
+            "MEDIUM":"Pastel",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Misc"
         },
         {
-            "FILENAME":"flamingo.png"
+            "FILENAME":"where-the-moon-isnt.png",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Graphic Design"
         },
         {
-            "FILENAME":"green.png"
+            "FILENAME":"flamingo.png",
+            "ORIENTATION":"landscape",
+            "CATEGORY":"Pointilism"
         },
         {
-            "FILENAME":"holiday.png"
+            "FILENAME":"green.png",
+            "ORIENTATION":"landscape",
+            "CATEGORY":"Landscape"
         },
         {
-            "FILENAME":"oil-pastel.jpg"
+            "FILENAME":"holiday.png",
+            "ORIENTATION":"landscape",
+            "CATEGORY":"Landscape"
         },
         {
-            "FILENAME":"pic2.png"
+            "FILENAME":"oil-pastel.jpg",
+            "ORIENTATION":"landscape",
+            "CATEGORY":"Pointilism"
         },
         {
-            "FILENAME":"rodeo1.jpg"
+            "FILENAME":"pic2.png",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Portrait"
         },
         {
-            "FILENAME":"rodeo2.jpg"
+            "FILENAME":"rodeo1.jpg",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Portrait"
+        },
+        {
+            "FILENAME":"rodeo2.jpg",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Portrait"
         },
         {
             "FILENAME":"self-portrait.jpg",
-            "NAME":"Self Portrait"
-        },
-        {
-            "FILENAME":"where-the-moon-isnt.png"
+            "NAME":"Self Portrait",
+            "ORIENTATION":"portrait",
+            "CATEGORY":"Portrait"
         }
     ],
     "BIO":"From the time Gina Chee was only a toddler, she knew she had a passion for drawing. Even as a young child, Gina would spend hours and hours on her desk drawing things such as butterflies and clouds, and after receiving praise from her parents and friends, she began to expand her skills outside art classes. From early elementary school, she began learning graphite, pastel, and watercolor and later studied painting in middle school, with studio art teacher Xinsheng Wang. It was there where she fell in love with acrylic and oil painting, and it quickly became her most favorite and strongest mediums. In high school, Gina's technical skills and aesthetic developed, as she joined her high school's art program, under the teachings of Donna reedy. After nearly 12 years of hard work and creativity, Gina had strongly developed her own personal style, and has continued to expand her knowledge of art through her paintings and drawings, and has advanced a deep appreciation for may different forms of art, including her recent experimentations with digital art. It's because of the love and encouragement through her family, friends, peers, and art teachers that Gina has been able to continuously do what she loves most and receive recognition for her talents.",
-    "PROFILE_PICTURE":"images/profile_picture.png"
+    "PROFILE_PICTURE":"profile_picture.jpg"
 }

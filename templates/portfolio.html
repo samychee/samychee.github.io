@@ -6,14 +6,19 @@
     <div class="col-lg-12">
       <h1 class="page-header">Art Portfolio</h1>
     </div>
+  </div>
 
-    {% for image in images %}
+  {% for category in categories %}
+  <div class="row">
+    <h2 class="category-header col-lg-12">{{ category[0] }}</h2>
+    {% for image in category[1] %}
     <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-      <a href="/images/{{ image.FILENAME }}" class="thumbnail">
+      <a href="images/{{ image.FILENAME }}" class="thumbnail">
         <img src="{{ url_for('static', filename='images/thumbnail/' + image.FILENAME) }}" class="img-thumbnail">
       </a>
     </div>
     {% endfor %}
   </div>
+  {% endfor %}
 </div>
 {% endblock %}
