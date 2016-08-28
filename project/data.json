@@ -3,143 +3,151 @@
         {
             "FILENAME":"2011-05-21-my-home-town.jpg",
             "NAME":"My Home Town",
-            "MEDIUM":"watercolor",
-            "DESCRIPTION":"This is my home town yo",
-            "ORIENTATION":"landscape",
-            "CATEGORY":"Landscape"
+            "DESCRIPTION":"2nd Place Award for Art Competition in Chinatown",
+            "CATEGORY":"Acrylic"
         },
         {
             "FILENAME":"2011-10-22.jpg",
-            "ORIENTATION":"landscape",
-            "CATEGORY":"Landscape"
+            "NAME":"Quiet Park",
+            "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Acrylic"
         },
         {
             "FILENAME":"2012-12-19-the-maidens-prayer.png",
             "NAME":"The Maiden's Prayer",
-            "MEDIUM":"Oil",
-            "DESCRIPTION":"Scholastic Gold Key Award, 2012",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Portrait"
+            "DESCRIPTION":"Gold Key Award for Scholastic Art & Writing Competition and 1st Place Award of Houston Young Artist Competition, 2013",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"2012-12-my-dog.png",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Portrait"
+            "NAME":"My Dog",
+            "DESCRIPTION":"Honorable Mention for Scholastic Art & Writing Competition, 2013",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"2013-05.png",
-            "ORIENTATION":"landscape",
-            "CATEGORY":"Landscape"
+            "NAME":"Farm",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"2013-08-searching-for-dreams.png",
             "NAME":"Searching for Dreams",
-            "ORIENTATION":"landscape",
-            "CATEGORY":"Landscape"
+            "DESCRIPTION":"Color Price chosen to participate in the final round of the 2nd Youth World Cup Live Painting Competition, 2013",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"2013-10-reading.png",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Portrait"
+            "NAME":"Reading",
+            "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2014",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"2013-12-folk-dancing.png",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Square"
+            "NAME":"Folk Dancing",
+            "DESCRIPTION":"Director's Pick for Houston Young Artist Competition, 2014",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"2014-03-pastel.jpg",
-            "MEDIUM":"Pastel",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Misc"
+            "NAME":"Elegance",
+            "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition 2015 and 1st Place Award for Visual Art Scholastic Eent of Texas Art Education Association 2014",
+            "CATEGORY":"Pastel"
         },
         {
             "FILENAME":"2014-05-24.jpg",
-            "ORIENTATION":"landscape",
-            "CATEGORY":"Sketches"
+            "NAME":"Man",
+            "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Charcoal"
         },
         {
             "FILENAME":"2014-09-20.jpg",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Sketches"
+            "NAME":"Woman",
+            "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Charcoal"
         },
         {
             "FILENAME":"2015-12-oriental-bellade.png",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Portrait"
+            "NAME":"Oriental Ballade",
+            "DESCRIPTION":"Honorable Mention for Houston Young Artist Competition, 2016",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"2016-03-contentment.png",
-            "ORIENTATION":"landscape",
-            "CATEGORY":"Landscape"
+            "NAME":"Contentment",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"cultural-appropriation1.png",
-            "ORIENTATION":"portrait",
+            "NAME":"Cultural Appropriation",
             "CATEGORY":"Graphic Design"
         },
         {
             "FILENAME":"cute-as-a-button.png",
-            "ORIENTATION":"landscape",
-            "CATEGORY":"Landscape"
+            "NAME":"Cute as a Button",
+            "CATEGORY":"Scratch Board"
         },
         {
             "FILENAME":"drapery-pastel.jpg",
-            "MEDIUM":"Pastel",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Misc"
+            "NAME":"Drapery",
+            "CATEGORY":"Pastel"
         },
         {
             "FILENAME":"drapery-with-emphasis.jpg",
-            "MEDIUM":"Pastel",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Misc"
+            "NAME":"Drapery with Emphasis",
+            "CATEGORY":"Pastel"
         },
         {
             "FILENAME":"where-the-moon-isnt.png",
-            "ORIENTATION":"portrait",
+            "NAME":"Where the Moon Isn't",
             "CATEGORY":"Graphic Design"
         },
         {
             "FILENAME":"flamingo.png",
-            "ORIENTATION":"landscape",
-            "CATEGORY":"Pointilism"
+            "NAME":"Flamingo",
+            "DESCRIPTION":"Honorable Mention for Scholastic Art & Writing Competition, 2015",
+            "CATEGORY":"Marker"
         },
         {
             "FILENAME":"green.png",
-            "ORIENTATION":"landscape",
-            "CATEGORY":"Landscape"
+            "NAME":"Green",
+            "DESCRIPTION":"Honorable Mention for Scholastic Art & Writing Competition, 2015",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"holiday.png",
-            "ORIENTATION":"landscape",
-            "CATEGORY":"Landscape"
+            "NAME":"Holiday",
+            "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2015",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"oil-pastel.jpg",
-            "ORIENTATION":"landscape",
-            "CATEGORY":"Pointilism"
+            "NAME":"Live of PI",
+            "DESCRIPTION":"Qualified for Visual Art Scholastic Event of Texas Education Association, 2015",
+            "CATEGORY":"Oil Pastel"
         },
         {
             "FILENAME":"pic2.png",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Portrait"
+            "NAME":"Young",
+            "DESCRIPTION":"Honorable Mention for the Scholastic Art & Writing Competition, 2016",
+            "CATEGORY":"Graphite"
         },
         {
             "FILENAME":"rodeo1.jpg",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Portrait"
+            "NAME":"Disobedient",
+            "DESCRIPTION":"Honorable Mention for the Scholastic Art & Writing Competition, 2016",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"rodeo2.jpg",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Portrait"
+            "NAME":"Fawl Play",
+            "DESCRIPTION":"Finalist for Rodeo Visual Art Competition in Clement High School, 2016",
+            "CATEGORY":"Oil"
         },
         {
             "FILENAME":"self-portrait.jpg",
-            "NAME":"Self Portrait",
-            "ORIENTATION":"portrait",
-            "CATEGORY":"Portrait"
+            "NAME":"Contrast",
+            "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2016",
+            "CATEGORY":"Oil"
         }
     ],
     "BIO":"From the time Gina Chee was only a toddler, she knew she had a passion for drawing. Even as a young child, Gina would spend hours and hours on her desk drawing things such as butterflies and clouds, and after receiving praise from her parents and friends, she began to expand her skills outside art classes. From early elementary school, she began learning graphite, pastel, and watercolor and later studied painting in middle school, with studio art teacher Xinsheng Wang. It was there where she fell in love with acrylic and oil painting, and it quickly became her most favorite and strongest mediums. In high school, Gina's technical skills and aesthetic developed, as she joined her high school's art program, under the teachings of Donna reedy. After nearly 12 years of hard work and creativity, Gina had strongly developed her own personal style, and has continued to expand her knowledge of art through her paintings and drawings, and has advanced a deep appreciation for may different forms of art, including her recent experimentations with digital art. It's because of the love and encouragement through her family, friends, peers, and art teachers that Gina has been able to continuously do what she loves most and receive recognition for her talents.",
