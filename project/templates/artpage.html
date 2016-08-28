@@ -7,12 +7,12 @@
   <span class="sr-only">Back</span>
 </a>
 <div class="container-fluid">
-  <div class="col-xs-{{ 6 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 8}}">
+  <div class="col-lg-{{ 6 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 8}} col-xs-12">
     <a href="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}">
       <img src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio">
     </a>
   </div>
-  <div class="col-xs-{{ 6 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 4 }}">
+  <div class="col-md-{{ 5 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 3 }} col-md-offset-0 col-xs-4 col-xs-offset 4">
     <h1>{{ image.NAME }}</h1>
     <p class="art-description">
     Medium: {{ image.MEDIUM }}
