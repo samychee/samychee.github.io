@@ -50,3 +50,7 @@ def image_page(image_id=None):
 def about():
     return render_template('about.html', bio=app.config['BIO'], profile_picture=app.config['PROFILE_PICTURE'])
 
+@app.route('/contact.html')
+def contact():
+    return render_template('contact.html')
+
