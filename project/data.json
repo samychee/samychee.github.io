@@ -156,7 +156,7 @@
         {
             "FILENAME":"holiday.png",
             "NAME":"Holiday",
-            "MEDIUM":"Oil",
+            "MEDIUM":"Pastel",
             "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2015",
             "CATEGORY":"Pastel",
             "ORIENTATION":"landscape"
@@ -204,36 +204,36 @@
         {
             "FILENAME":"2011-02-26.png",
             "NAME":"Landscape",
-            "MEDIUM":"Arylic",
-            "CATEGORY":"Arylic",
+            "MEDIUM":"Acrylic",
+            "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"2011-03-05.png",
             "NAME":"Landscape",
-            "MEDIUM":"Arylic",
-            "CATEGORY":"Arylic",
+            "MEDIUM":"Acrylic",
+            "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"2011-03-12.png",
             "NAME":"Landscape",
-            "MEDIUM":"Arylic",
-            "CATEGORY":"Arylic",
+            "MEDIUM":"Acrylic",
+            "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"2011-04-02.png",
             "NAME":"Landscape",
-            "MEDIUM":"Arylic",
-            "CATEGORY":"Arylic",
+            "MEDIUM":"Acrylic",
+            "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"2011-12-10.png",
             "NAME":"Landscape",
-            "MEDIUM":"Arylic",
-            "CATEGORY":"Arylic",
+            "MEDIUM":"Acrylic",
+            "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         }
     ],
