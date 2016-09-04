@@ -1,2 +1,2 @@
 set my_command=python freezer.py
-Scripts\activate
+Scripts\activate 2>errors.txt

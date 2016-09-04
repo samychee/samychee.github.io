@@ -12,3 +12,6 @@ tcl/
 
 # Python stuff
 *.pyc
+
+# error messages
+errors.txt
