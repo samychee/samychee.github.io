@@ -25,27 +25,12 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"2012-12-my-dog.png",
-            "NAME":"My Dog",
+            "FILENAME":"rodeo2.jpg",
+            "NAME":"Fowl Play",
             "MEDIUM":"Oil",
-            "DESCRIPTION":"Honorable Mention for Scholastic Art & Writing Competition, 2013",
+            "DESCRIPTION":"Finalist for Rodeo Visual Art Competition in Fort Bend ISD, 2016",
             "CATEGORY":"Oil",
             "ORIENTATION":"portrait"
-        },
-        {
-            "FILENAME":"2013-05.png",
-            "NAME":"Lonely Longhorn",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Oil",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"2013-08-searching-for-dreams.png",
-            "NAME":"Searching for Dreams",
-            "MEDIUM":"Oil",
-            "DESCRIPTION":"Color Price chosen to participate in the final round of the 2nd Youth World Cup Live Painting Competition, 2013",
-            "CATEGORY":"Oil",
-            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"2013-10-reading.png",
@@ -54,6 +39,14 @@
             "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2014",
             "CATEGORY":"Oil",
             "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"2013-08-searching-for-dreams.png",
+            "NAME":"Searching for Dreams",
+            "MEDIUM":"Oil",
+            "DESCRIPTION":"Color Price chosen to participate in the final round of the 2nd Youth World Cup Live Painting Competition, 2013",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"2013-12-folk-dancing.png",
@@ -162,6 +155,21 @@
             "ORIENTATION":"landscape"
         },
         {
+            "FILENAME":"2012-12-my-dog.png",
+            "NAME":"My Dog",
+            "MEDIUM":"Oil",
+            "DESCRIPTION":"Honorable Mention for Scholastic Art & Writing Competition, 2013",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"2013-05.png",
+            "NAME":"Lonely Longhorn",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"landscape"
+        },
+        {
             "FILENAME":"2013-03.png",
             "NAME":"Cow",
             "MEDIUM":"Oil",
@@ -197,14 +205,6 @@
             "NAME":"Disobedient",
             "MEDIUM":"Oil",
             "DESCRIPTION":"Honorable Mention for the Scholastic Art & Writing Competition, 2016",
-            "CATEGORY":"Oil",
-            "ORIENTATION":"portrait"
-        },
-        {
-            "FILENAME":"rodeo2.jpg",
-            "NAME":"Fowl Play",
-            "MEDIUM":"Oil",
-            "DESCRIPTION":"Finalist for Rodeo Visual Art Competition in Fort Bend ISD, 2016",
             "CATEGORY":"Oil",
             "ORIENTATION":"portrait"
         },
