@@ -1,15 +1,15 @@
 {
     "IMAGES":[
         {
-            "FILENAME":"2011-05-21-my-home-town.jpg",
+            "FILENAME":"acrylic-my-home-town.jpg",
             "NAME":"My Home Town",
             "MEDIUM":"Acrylic",
-            "DESCRIPTION":"Live Drawing. 2nd Place Award for Art Competition in Chinatown",
+            "DESCRIPTION":"Live Drawing. 2nd Place Award for Art Competition in Houston Chinatown",
             "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2011-10-22.jpg",
+            "FILENAME":"acrylic-quiet-park.jpg",
             "NAME":"Quiet Park",
             "MEDIUM":"Acrylic",
             "DESCRIPTION":"Live Drawing",
@@ -17,7 +17,7 @@
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2012-12-19-the-maidens-prayer.png",
+            "FILENAME":"the-maidens-prayer.png",
             "NAME":"The Maiden's Prayer",
             "MEDIUM":"Oil",
             "DESCRIPTION":"Gold Key Award for Scholastic Art & Writing Competition and 1st Place Award of Houston Young Artist Competition, 2013",
@@ -33,7 +33,7 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"2013-10-reading.png",
+            "FILENAME":"ny-girl.png",
             "NAME":"New York Girl",
             "MEDIUM":"Oil",
             "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2014",
@@ -41,7 +41,7 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"2013-08-searching-for-dreams.png",
+            "FILENAME":"searching-for-dreams.png",
             "NAME":"Searching for Dreams",
             "MEDIUM":"Oil",
             "DESCRIPTION":"Color Price chosen to participate in the final round of the 2nd Youth World Cup Live Painting Competition, 2013",
@@ -49,7 +49,7 @@
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2013-12-folk-dancing.png",
+            "FILENAME":"folk-dancing.png",
             "NAME":"Folk Dancing",
             "MEDIUM":"Oil",
             "DESCRIPTION":"Director's Pick for Houston Young Artist Competition, 2014",
@@ -57,7 +57,7 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"2014-03-pastel.jpg",
+            "FILENAME":"elegance.jpg",
             "NAME":"Elegance",
             "MEDIUM":"Pastel",
             "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition 2015 and 1st Place Award for Visual Art Scholastic Event of Texas Art Education Association 2014",
@@ -65,7 +65,7 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"2014-05-24.jpg",
+            "FILENAME":"ch-man.jpg",
             "MEDIUM":"Charcoal",
             "NAME":"Man",
             "DESCRIPTION":"Live Drawing",
@@ -73,7 +73,7 @@
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2014-09-20.jpg",
+            "FILENAME":"ch-woman1.jpg",
             "NAME":"Woman",
             "MEDIUM":"Charcoal",
             "DESCRIPTION":"Live Drawing",
@@ -81,7 +81,7 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"2014-05-17.png",
+            "FILENAME":"ch-woman2.png",
             "NAME":"Woman",
             "MEDIUM":"Charcoal",
             "DESCRIPTION":"Live Drawing",
@@ -89,7 +89,7 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"2015-12-oriental-bellade.png",
+            "FILENAME":"oriental-ballade.png",
             "NAME":"Oriental Ballade",
             "MEDIUM":"Oil",
             "DESCRIPTION":"Honorable Mention for Houston Young Artist Competition, 2016",
@@ -148,14 +148,22 @@
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2011-12-10.JPG",
+            "FILENAME":"oil-landscape.JPG",
             "NAME":"Landscape",
             "MEDIUM":"Oil",
             "CATEGORY":"Oil",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2012-12-my-dog.png",
+            "FILENAME":"today-tomorrow.png",
+            "NAME":"Today? Tomorrow?",
+            "MEDIUM":"Oil",
+            "DESCRIPTION":"1st Place Award for Art Competition in Houston Taiwan Benevolent Association, 2014",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"my-dog.png",
             "NAME":"My Dog",
             "MEDIUM":"Oil",
             "DESCRIPTION":"Honorable Mention for Scholastic Art & Writing Competition, 2013",
@@ -163,14 +171,14 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"2013-05.png",
+            "FILENAME":"lonely-longhorn.png",
             "NAME":"Lonely Longhorn",
             "MEDIUM":"Oil",
             "CATEGORY":"Oil",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2013-03.png",
+            "FILENAME":"cow.png",
             "NAME":"Cow",
             "MEDIUM":"Oil",
             "CATEGORY":"Oil",
@@ -209,56 +217,49 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"concent2.png",
+            "FILENAME":"denial.png",
             "NAME":"Denial",
             "MEDIUM":"Oil",
             "CATEGORY":"Oil",
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"concent3.png",
+            "FILENAME":"guilt.png",
             "NAME":"Guilt",
             "MEDIUM":"Oil",
             "CATEGORY":"Oil",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"concent4.png",
+            "FILENAME":"anger.png",
             "NAME":"Anger",
             "MEDIUM":"Oil",
             "CATEGORY":"Oil",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"concent5.png",
+            "FILENAME":"self-worth.png",
             "NAME":"Self-Worth",
             "MEDIUM":"Oil",
             "CATEGORY":"Oil",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"concent7.png",
+            "FILENAME":"depression.png",
             "NAME":"Depression",
             "MEDIUM":"Oil",
             "CATEGORY":"Oil",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"concent8.png",
-            "NAME":"Isolation",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Oil",
-            "ORIENTATION":"portrait"
-        },
-        {
-            "FILENAME":"2016-03-contentment.png",
+            "FILENAME":"contentment.png",
             "NAME":"Contentment",
             "MEDIUM":"Oil",
             "CATEGORY":"Oil",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"concent9.png",
+            "FILENAME":"acceptance.png",
             "NAME":"Acceptance",
             "MEDIUM":"Oil",
             "CATEGORY":"Oil",
@@ -280,73 +281,87 @@
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2011-02-26.JPG",
+            "FILENAME":"acrylic-landscape2.JPG",
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2011-03-05.JPG",
+            "FILENAME":"acrylic-landscape3.JPG",
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2011-03-12.png",
+            "FILENAME":"acrylic-landscape4.png",
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2011-04-12.png",
+            "FILENAME":"acrylic-landscape5.png",
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2011-01-22.jpg",
+            "FILENAME":"acrylic-landscape6.jpg",
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2011-02-05.jpg",
+            "FILENAME":"acrylic-landscape7.jpg",
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"2011-04-15.jpg",
+            "FILENAME":"acrylic-landscape8.jpg",
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2011-08-07.jpg",
+            "FILENAME":"acrylic-landscape9.jpg",
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"2011-04-23.png",
-            "NAME":"Landscape",
+            "FILENAME":"acrylic-still-life1.png",
+            "NAME":"Still Life",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"2011-09-03.jpg",
-            "NAME":"Landscape",
+            "FILENAME":"acrylic-still-life2.jpg",
+            "NAME":"Still Life",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"3-faces.png",
+            "NAME":"3 Faces",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Mix Media",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"apple-a-day.png",
+            "NAME":"Apple a Day",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Mix Media",
             "ORIENTATION":"landscape"
         }
     ],
