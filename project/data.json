@@ -162,6 +162,13 @@
             "ORIENTATION":"landscape"
         },
         {
+            "FILENAME":"2013-03.png",
+            "NAME":"Cow",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"portrait"
+        },
+        {
             "FILENAME":"holiday.png",
             "NAME":"Holiday",
             "MEDIUM":"Pastel",
@@ -264,6 +271,13 @@
             "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2016",
             "CATEGORY":"Graphite",
             "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"drapery.png",
+            "NAME":"Drapery",
+            "MEDIUM":"Graphite",
+            "CATEGORY":"Graphite",
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"2011-02-26.JPG",
