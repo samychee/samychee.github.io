@@ -96,13 +96,6 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"2016-03-contentment.png",
-            "NAME":"Contentment",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Oil",
-            "ORIENTATION":"landscape"
-        },
-        {
             "FILENAME":"cultural-appropriation1.png",
             "NAME":"Cultural Appropriation",
             "MEDIUM":"Graphic Design",
@@ -192,6 +185,62 @@
             "DESCRIPTION":"Finalist for Rodeo Visual Art Competition in Fort Bend ISD, 2016",
             "CATEGORY":"Oil",
             "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"concent2.png",
+            "NAME":"Denial",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"concent3.png",
+            "NAME":"Guilt",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"concent4.png",
+            "NAME":"Anger",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"concent5.png",
+            "NAME":"Self-Worth",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"concent7.png",
+            "NAME":"Depression",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"concent8.png",
+            "NAME":"Isolation",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"2016-03-contentment.png",
+            "NAME":"Contentment",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"concent9.png",
+            "NAME":"Acceptance",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Oil",
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"self-portrait.jpg",
