@@ -25,12 +25,12 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"searching-for-dreams.png",
-            "NAME":"Searching for Dreams",
+            "FILENAME":"oriental-ballade.png",
+            "NAME":"Oriental Ballade",
             "MEDIUM":"Oil",
-            "DESCRIPTION":"Color Price chosen to participate in the final round of the 2nd Youth World Cup Live Painting Competition, 2013",
-            "CATEGORY":"Landscape",
-            "ORIENTATION":"landscape"
+            "DESCRIPTION":"Honorable Mention for Houston Young Artist Competition, 2016",
+            "CATEGORY":"Portrait",
+            "ORIENTATION":"portrait"
         },
         {
             "FILENAME":"folk-dancing.png",
@@ -39,6 +39,30 @@
             "DESCRIPTION":"Director's Pick for Houston Young Artist Competition, 2014",
             "CATEGORY":"Portrait",
             "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"pic2.jpg",
+            "NAME":"Young",
+            "MEDIUM":"Graphite",
+            "DESCRIPTION":"Honorable Mention for the Scholastic Art & Writing Competition, 2016",
+            "CATEGORY":"Portrait",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"self-portrait.jpg",
+            "NAME":"Contrast",
+            "MEDIUM":"Graphite",
+            "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2016",
+            "CATEGORY":"Portrait",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"searching-for-dreams.png",
+            "NAME":"Searching for Dreams",
+            "MEDIUM":"Oil",
+            "DESCRIPTION":"Color Price chosen to participate in the final round of the 2nd Youth World Cup Live Painting Competition, 2013",
+            "CATEGORY":"Landscape",
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"acrylic-my-home-town.jpg",
@@ -53,6 +77,29 @@
             "NAME":"Quiet Park",
             "MEDIUM":"Acrylic",
             "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Landscape",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"green.png",
+            "NAME":"Green",
+            "MEDIUM":"Oil",
+            "DESCRIPTION":"Honorable Mention for Scholastic Art & Writing Competition, 2015",
+            "CATEGORY":"Landscape",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"oil-landscape.jpg",
+            "NAME":"Landscape",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Landscape",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"today-tomorrow.png",
+            "NAME":"Today? Tomorrow?",
+            "MEDIUM":"Oil",
+            "DESCRIPTION":"1st Place Award for Art Competition in Houston Taiwan Benevolent Association, 2014",
             "CATEGORY":"Landscape",
             "ORIENTATION":"landscape"
         },
@@ -86,14 +133,6 @@
             "MEDIUM":"Charcoal",
             "DESCRIPTION":"Live Drawing",
             "CATEGORY":"Drawing",
-            "ORIENTATION":"portrait"
-        },
-        {
-            "FILENAME":"oriental-ballade.png",
-            "NAME":"Oriental Ballade",
-            "MEDIUM":"Oil",
-            "DESCRIPTION":"Honorable Mention for Houston Young Artist Competition, 2016",
-            "CATEGORY":"Portrait",
             "ORIENTATION":"portrait"
         },
         {
@@ -140,29 +179,6 @@
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"green.png",
-            "NAME":"Green",
-            "MEDIUM":"Oil",
-            "DESCRIPTION":"Honorable Mention for Scholastic Art & Writing Competition, 2015",
-            "CATEGORY":"Landscape",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"oil-landscape.jpg",
-            "NAME":"Landscape",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Landscape",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"today-tomorrow.png",
-            "NAME":"Today? Tomorrow?",
-            "MEDIUM":"Oil",
-            "DESCRIPTION":"1st Place Award for Art Competition in Houston Taiwan Benevolent Association, 2014",
-            "CATEGORY":"Landscape",
-            "ORIENTATION":"landscape"
-        },
-        {
             "FILENAME":"my-dog.png",
             "NAME":"My Dog",
             "MEDIUM":"Oil",
@@ -199,14 +215,6 @@
             "DESCRIPTION":"Qualified for Visual Art Scholastic Event of Texas Education Association, 2015",
             "CATEGORY":"Animal",
             "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"pic2.jpg",
-            "NAME":"Young",
-            "MEDIUM":"Graphite",
-            "DESCRIPTION":"Honorable Mention for the Scholastic Art & Writing Competition, 2016",
-            "CATEGORY":"Portrait",
-            "ORIENTATION":"portrait"
         },
         {
             "FILENAME":"rodeo1.jpg",
@@ -264,14 +272,6 @@
             "MEDIUM":"Oil",
             "CATEGORY":"Concentration",
             "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"self-portrait.jpg",
-            "NAME":"Contrast",
-            "MEDIUM":"Graphite",
-            "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2016",
-            "CATEGORY":"Portrait",
-            "ORIENTATION":"portrait"
         },
         {
             "FILENAME":"drapery.png",
