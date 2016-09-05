@@ -239,6 +239,13 @@
             "ORIENTATION":"landscape"
         },
         {
+            "FILENAME":"depression.png",
+            "NAME":"Depression",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Concentration",
+            "ORIENTATION":"landscape"
+        },
+        {
             "FILENAME":"anger.png",
             "NAME":"Anger",
             "MEDIUM":"Oil",
@@ -248,13 +255,6 @@
         {
             "FILENAME":"self-worth.png",
             "NAME":"Self-Worth",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Concentration",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"depression.png",
-            "NAME":"Depression",
             "MEDIUM":"Oil",
             "CATEGORY":"Concentration",
             "ORIENTATION":"landscape"
