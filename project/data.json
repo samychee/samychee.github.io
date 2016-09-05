@@ -1,7 +1,7 @@
 {
     "IMAGES":[
         {
-            "FILENAME":"acrylic-my-home-town.JPG",
+            "FILENAME":"acrylic-my-home-town.jpg",
             "NAME":"My Home Town",
             "MEDIUM":"Acrylic",
             "DESCRIPTION":"Live Drawing. 2nd Place Award for Art Competition in Houston Chinatown",
@@ -148,7 +148,7 @@
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"oil-landscape.JPG",
+            "FILENAME":"oil-landscape.jpg",
             "NAME":"Landscape",
             "MEDIUM":"Oil",
             "CATEGORY":"Oil",
@@ -201,7 +201,7 @@
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"pic2.png",
+            "FILENAME":"pic2.jpg",
             "NAME":"Young",
             "MEDIUM":"Graphite",
             "DESCRIPTION":"Honorable Mention for the Scholastic Art & Writing Competition, 2016",
@@ -288,14 +288,14 @@
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"acrylic-landscape3.JPG",
+            "FILENAME":"acrylic-landscape3.jpg",
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"acrylic-landscape4.JPG",
+            "FILENAME":"acrylic-landscape4.jpg",
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Acrylic",
