@@ -1,22 +1,6 @@
 {
     "IMAGES":[
         {
-            "FILENAME":"acrylic-my-home-town.jpg",
-            "NAME":"My Home Town",
-            "MEDIUM":"Acrylic",
-            "DESCRIPTION":"Live Drawing. 2nd Place Award for Art Competition in Houston Chinatown",
-            "CATEGORY":"Landscape",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"acrylic-quiet-park.jpg",
-            "NAME":"Quiet Park",
-            "MEDIUM":"Acrylic",
-            "DESCRIPTION":"Live Drawing",
-            "CATEGORY":"Landscape",
-            "ORIENTATION":"landscape"
-        },
-        {
             "FILENAME":"the-maidens-prayer.png",
             "NAME":"The Maiden's Prayer",
             "MEDIUM":"Oil",
@@ -55,6 +39,22 @@
             "DESCRIPTION":"Director's Pick for Houston Young Artist Competition, 2014",
             "CATEGORY":"Portrait",
             "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"acrylic-my-home-town.jpg",
+            "NAME":"My Home Town",
+            "MEDIUM":"Acrylic",
+            "DESCRIPTION":"Live Drawing. 2nd Place Award for Art Competition in Houston Chinatown",
+            "CATEGORY":"Landscape",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"acrylic-quiet-park.jpg",
+            "NAME":"Quiet Park",
+            "MEDIUM":"Acrylic",
+            "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Landscape",
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"elegance.jpg",
@@ -197,7 +197,7 @@
             "NAME":"Life of Pi",
             "MEDIUM":"Oil Pastel",
             "DESCRIPTION":"Qualified for Visual Art Scholastic Event of Texas Education Association, 2015",
-            "CATEGORY":"Still Life",
+            "CATEGORY":"Animal",
             "ORIENTATION":"landscape"
         },
         {
