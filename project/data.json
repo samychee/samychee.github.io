@@ -143,6 +143,14 @@
             "ORIENTATION":"portrait"
         },
         {
+            "FILENAME":"my-dog.png",
+            "NAME":"My Dog",
+            "MEDIUM":"Oil",
+            "DESCRIPTION":"Honorable Mention for Scholastic Art & Writing Competition, 2013",
+            "CATEGORY":"Animal",
+            "ORIENTATION":"portrait"
+        },
+        {
             "FILENAME":"cute-as-a-button.png",
             "NAME":"Cute as a Button",
             "MEDIUM":"Scratch Board",
@@ -179,12 +187,12 @@
             "ORIENTATION":"landscape"
         },
         {
-            "FILENAME":"my-dog.png",
-            "NAME":"My Dog",
-            "MEDIUM":"Oil",
-            "DESCRIPTION":"Honorable Mention for Scholastic Art & Writing Competition, 2013",
+            "FILENAME":"oil-pastel.jpg",
+            "NAME":"Life of Pi",
+            "MEDIUM":"Oil Pastel",
+            "DESCRIPTION":"Qualified for Visual Art Scholastic Event of Texas Education Association, 2015",
             "CATEGORY":"Animal",
-            "ORIENTATION":"portrait"
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"lonely-longhorn.png",
@@ -206,14 +214,6 @@
             "MEDIUM":"Pastel",
             "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2015",
             "CATEGORY":"Still Life",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"oil-pastel.jpg",
-            "NAME":"Life of Pi",
-            "MEDIUM":"Oil Pastel",
-            "DESCRIPTION":"Qualified for Visual Art Scholastic Event of Texas Education Association, 2015",
-            "CATEGORY":"Animal",
             "ORIENTATION":"landscape"
         },
         {
