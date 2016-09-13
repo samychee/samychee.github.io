@@ -16,6 +16,7 @@ def init_config(app):
         if image['CATEGORY'] not in categories:
             categories[image['CATEGORY']] = []
         categories[image['CATEGORY']].append(image)
+    # take the first image in each category to be the image for the category
     app.config['portfolio_categories'] = {key: value[0] for key, value in categories.items()}
     app.config['categories'] = categories
     flat_list = app.config['IMAGES'] = [image for category in app.config['CATEGORY_ORDER'] for image in categories[category]]
@@ -43,7 +44,7 @@ def portfolio():
 def category(category_name=None):
     # remove the '.html'
     category_name = category_name[:-5]
-    return render_template('category.html', category=category_name, images=app.config['categories'][category_name])
+    return render_template('category.html', categories=app.config['CATEGORY_ORDER'], category=category_name, images=app.config['categories'][category_name])
 
 
 @app.route('/images/<image_id>')

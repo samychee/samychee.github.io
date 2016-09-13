@@ -2,18 +2,21 @@
 {% block title %}{{ image.NAME }}{% endblock %}
 {% block javascript %}<script src="{{ url_for('static', filename='javascript/artpage.js') }}"></script>{% endblock %}
 {% block content %}
-<a href="{{ url_for('image_page', image_id=image.back.id + '.html') }}" class="carousel-button carousel-button-back">
-  <span class="glyphicon glyphicon-triangle-left"></span>
-  <span class="sr-only">Back</span>
-</a>
+<div class="carousel-container carousel-button-back">
+  <a href="{{ url_for('image_page', image_id=image.back.id + '.html') }}" class="carousel-button">
+    <span class="glyphicon glyphicon-triangle-left"></span>
+    <span class="sr-only">Back</span>
+  </a>
+</div>
 <div class="container-fluid">
-  <div class="col-lg-{{ 6 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 8}} col-xs-12">
+  <div class="col-md-{{ 5 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 7}} col-xs-10 col-xs-offset-1">
     <a href="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}">
       <img src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio">
     </a>
   </div>
-  <div class="col-md-{{ 5 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 3 }} col-xs-12">
-    <h1>{{ image.NAME }}</h1>
+  <div class="col-xs-offset-1 col-md-offset-0"></div>
+  <div class="col-md-{{ 5 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 3 }} col-xs-10 col-xs-offset-1 col-md-offset-0">
+    <h1 class="image_name">{{ image.NAME }}</h1>
     <p class="art-description">
     Medium: {{ image.MEDIUM }}
     </p>
@@ -24,8 +27,10 @@
     {% endif %}
   </div>
 </div>
-<a href="{{ url_for('image_page', image_id=image.forward.id + '.html') }}" class="carousel-button carousel-button-forward">
-  <span class="glyphicon glyphicon-triangle-right"></span>
-  <span class="sr-only">Forward</span>
-</a>
+<div class="carousel-container carousel-button-forward">
+  <a href="{{ url_for('image_page', image_id=image.forward.id + '.html') }}" class="carousel-button">
+    <span class="glyphicon glyphicon-triangle-right"></span>
+    <span class="sr-only">Forward</span>
+  </a>
+</div>
 {% endblock %}

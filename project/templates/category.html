@@ -3,8 +3,20 @@
 {% block content %}
 <div class="container">
   <div class="row">
+    <ul class="category_list">
+      {% for cat in categories %}
+      <li class="col-md-2 col-xs-4">
+        <div class="category_li{% if cat == category %} cur_category{% endif %}">
+          <a href="{{ url_for('category', category_name=cat+'.html') }}" class="category_link">{{ cat }}</a>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="row">
     <div class="col-lg-12">
-      <h1 class="page-header">{{ category }}</h1>
+      <h1 class="page-header" id="category_header">{{ category }}</h1>
     </div>
   </div>
 
