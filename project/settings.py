@@ -30,4 +30,6 @@ FREEZER_DESTINATION_IGNORE = [
     '.git*',
     '*.sh',
     '*.bat',
-    '*.py']
+    '*.py',
+    'robots.txt',
+    'sitemap.xml']
