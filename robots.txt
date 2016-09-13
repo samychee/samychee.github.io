@@ -1,0 +1,11 @@
+Sitemap: http://gchee.com/sitemap.xml
+User-agent: *
+Disallow: /project/
+Disallow: /.gitattributes
+Disallow: /.gitignore
+Disallow: /CNAME
+Disallow: /freeze.bat
+Disallow: /freeze.sh
+Disallow: /freezer.py
+Disallow: /install.bat
+Disallow: /requirements.txt
