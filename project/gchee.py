@@ -9,7 +9,6 @@ def init_config(app):
     # set up json config
     app.config.from_json('data.json')
     categories = dict()
-    num_images = len(app.config['IMAGES'])
     # group together categories
     for image in app.config['IMAGES']:
         image['id'] = image['FILENAME'][:image['FILENAME'].rfind('.')]
@@ -17,9 +16,10 @@ def init_config(app):
         if image['CATEGORY'] not in categories:
             categories[image['CATEGORY']] = []
         categories[image['CATEGORY']].append(image)
-    # sort categories by decreasing number of pictures in category, then by alphabetical order
-    category_image_list = app.config['categories'] = sorted(categories.items(), key=lambda item: (-len(item[1]), item[0]))
-    flat_list = app.config['IMAGES'] = [image for tup in category_image_list for image in tup[1]]
+    app.config['portfolio_categories'] = {key: value[0] for key, value in categories.items()}
+    app.config['categories'] = categories
+    flat_list = app.config['IMAGES'] = [image for category in app.config['CATEGORY_ORDER'] for image in categories[category]]
+    num_images = len(app.config['IMAGES'])
     for idx, image in enumerate(flat_list):
         image['back'] = flat_list[idx - 1]
         image['forward'] = flat_list[(idx + 1) % num_images]
@@ -36,7 +36,14 @@ def index():
 
 @app.route('/portfolio.html')
 def portfolio():
-    return render_template('portfolio.html', categories=app.config['categories'])
+    return render_template('portfolio.html', ordering=app.config['CATEGORY_ORDER'], categories=app.config['portfolio_categories'])
+
+
+@app.route('/portfolio/<category_name>')
+def category(category_name=None):
+    # remove the '.html'
+    category_name = category_name[:-5]
+    return render_template('category.html', category=category_name, images=app.config['categories'][category_name])
 
 
 @app.route('/images/<image_id>')

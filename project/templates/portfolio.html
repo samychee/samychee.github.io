@@ -8,17 +8,15 @@
     </div>
   </div>
 
-  {% for category in categories %}
   <div class="row">
-    <h2 class="category-header col-lg-12">{{ category[0] }}</h2>
-    {% for image in category[1] %}
-    <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-      <a href="{{ url_for('image_page', image_id=image.id + '.html') }}" class="thumbnail">
-        <img src="{{ url_for('static', filename='images/thumbnail/' + image.FILENAME) }}" class="img-thumbnail">
+  {% for category in ordering %}
+    <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+      <h3 class="category-header">{{ categories[category].CATEGORY }}</h2>
+      <a href="{{ url_for('category', category_name=categories[category].CATEGORY + '.html') }}" class="thumbnail">
+        <img src="{{ url_for('static', filename='images/thumbnail/' + categories[category].FILENAME) }}" class="img-thumbnail">
       </a>
     </div>
-    {% endfor %}
-  </div>
   {% endfor %}
+  </div>
 </div>
 {% endblock %}
