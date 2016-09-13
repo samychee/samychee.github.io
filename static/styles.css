@@ -396,6 +396,19 @@ a.category_link:hover {
     margin-left: 8%;
 }
 
+@media screen and (max-width: 500px) and (min-width: 321px) {
+    .category-header {
+        font-size: 20px;
+        margin-left: 6%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .category-header {
+        font-size: 17px;
+    }
+}
+
 .carousel-container {
     position: fixed;
     top: 50px;
