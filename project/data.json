@@ -161,7 +161,7 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"acylic-landscape10.png",
+            "FILENAME":"acrylic-landscape10.png",
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Landscape",
@@ -232,7 +232,7 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"rodeo.png",
+            "FILENAME":"Rodeo.png",
             "NAME":"Rodeo",
             "MEDIUM":"Graphite",
             "DESCRIPTION":"Live Drawing",
