@@ -107,52 +107,6 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"my-dog.png",
-            "NAME":"My Dog",
-            "MEDIUM":"Oil",
-            "DESCRIPTION":"Honorable Mention for Scholastic Art and Writing Competition, 2013",
-            "CATEGORY":"Animal",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"flamingo.png",
-            "NAME":"Flamingo",
-            "MEDIUM":"Marker",
-            "DESCRIPTION":"Honorable Mention for Scholastic Art and Writing Competition, 2015",
-            "CATEGORY":"Animal",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"oil-pastel.png",
-            "NAME":"Life of PI",
-            "MEDIUM":"Oil Pastel",
-            "DESCRIPTION":"Qualified for Visual Art Scholastic Event of Texas Art Education Association, 2015",
-            "CATEGORY":"Animal",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"lonely-longhorn.png",
-            "NAME":"Longly Longhorn",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Animal",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"cow.png",
-            "NAME":"Cow",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Animal",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"rodeo1.jpg",
-            "NAME":"Disobedient",
-            "MEDIUM":"Oil",
-            "DESCRIPTION":"Honorable Mention for Scholastic Art and Writing Competition, 2016",
-            "CATEGORY":"Animal",
-            "ORIENTATION":"landscape"
-        },
-        {
             "FILENAME":"searching-for-dreams.png",
             "NAME":"Searching for Dreams",
             "MEDIUM":"Oil",
@@ -396,55 +350,6 @@
             "DESCRIPTION":"Honorable Mention for the Scholastic Art & Writing Competition, 2016",
             "CATEGORY":"Animal",
             "ORIENTATION":"portrait"
-        },
-        {
-            "FILENAME":"denial.png",
-            "NAME":"Denial",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Concentration",
-            "ORIENTATION":"portrait"
-        },
-        {
-            "FILENAME":"guilt.png",
-            "NAME":"Guilt",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Concentration",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"depression.png",
-            "NAME":"Depression",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Concentration",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"anger.png",
-            "NAME":"Anger",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Concentration",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"self-worth.png",
-            "NAME":"Self-Worth",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Concentration",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"contentment.png",
-            "NAME":"Contentment",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Concentration",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"acceptance.png",
-            "NAME":"Acceptance",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Concentration",
-            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"drapery.png",
