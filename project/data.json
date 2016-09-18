@@ -1,5 +1,5 @@
 {
-    "CATEGORY_ORDER":["Portrait", "Landscape", "Still Life", "Drawing", "Graphic Design", "Mix Media"],
+    "CATEGORY_ORDER":["Portrait", "Concentration", "Animal", "Landscape", "Still Life", "Drawing", "Graphic Design", "Mix Media"],
     "IMAGES":[
         {
             "FILENAME":"the-maidens-prayer.png",
@@ -19,7 +19,7 @@
         },
         {
             "FILENAME":"ny-girl.png",
-            "NAME":"New York Girl",
+            "NAME":"Reading",
             "MEDIUM":"Oil",
             "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2014",
             "CATEGORY":"Portrait",
@@ -56,6 +56,101 @@
             "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2016",
             "CATEGORY":"Portrait",
             "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"denial.png",
+            "NAME":"Denail",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Concentration",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"depression.png",
+            "NAME":"Depression",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Concentration",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"anger.png",
+            "NAME":"Anger",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Concentration",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"guilt.png",
+            "NAME":"Guilt",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Concentration",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"self-worth.png",
+            "NAME":"Self Worth",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Concentration",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"contentment.png",
+            "NAME":"Contentment",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Concentration",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"acceptance.png",
+            "NAME":"Acceptance",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Concentration",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"my-dog.png",
+            "NAME":"My Dog",
+            "MEDIUM":"Oil",
+            "DESCRIPTION":"Honorable Mention for Scholastic Art and Writing Competition, 2013",
+            "CATEGORY":"Animal",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"flamingo.png",
+            "NAME":"Flamingo",
+            "MEDIUM":"Marker",
+            "DESCRIPTION":"Honorable Mention for Scholastic Art and Writing Competition, 2015",
+            "CATEGORY":"Animal",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"oil-pastel.png",
+            "NAME":"Life of PI",
+            "MEDIUM":"Oil Pastel",
+            "DESCRIPTION":"Qualified for Visual Art Scholastic Event of Texas Art Education Association, 2015",
+            "CATEGORY":"Animal",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"lonely-longhorn.png",
+            "NAME":"Longly Longhorn",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Animal",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"cow.png",
+            "NAME":"Cow",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Animal",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"rodeo1.jpg",
+            "NAME":"Disobedient",
+            "MEDIUM":"Oil",
+            "DESCRIPTION":"Honorable Mention for Scholastic Art and Writing Competition, 2016",
+            "CATEGORY":"Animal",
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"searching-for-dreams.png",
@@ -105,6 +200,20 @@
             "ORIENTATION":"landscape"
         },
         {
+            "FILENAME":"oil-landscape3.png",
+            "NAME":"Landscape",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Landscape",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"acylic-landscape10.png",
+            "NAME":"Landscape",
+            "MEDIUM":"Acrylic",
+            "CATEGORY":"Landscape",
+            "ORIENTATION":"portrait"
+        },
+        {
             "FILENAME":"elegance.jpg",
             "NAME":"Elegance",
             "MEDIUM":"Pastel",
@@ -132,6 +241,62 @@
             "FILENAME":"ch-woman2.png",
             "NAME":"Woman",
             "MEDIUM":"Charcoal",
+            "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Drawing",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"ch-man2.png",
+            "NAME":"Man",
+            "MEDIUM":"Charcoal",
+            "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Drawing",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"ch-man3.png",
+            "NAME":"Man",
+            "MEDIUM":"Charcoal",
+            "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Drawing",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"ch-woman3.png",
+            "NAME":"Woman",
+            "MEDIUM":"Charcoal",
+            "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Drawing",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"ch-woman4.png",
+            "NAME":"Woman",
+            "MEDIUM":"Charcoal",
+            "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Drawing",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"rodeo.png",
+            "NAME":"Rodeo",
+            "MEDIUM":"Graphite",
+            "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Drawing",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"mk-man1.png",
+            "NAME":"Rodeo",
+            "MEDIUM":"Marker",
+            "DESCRIPTION":"Live Drawing",
+            "CATEGORY":"Drawing",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"mk-woman1.png",
+            "NAME":"Rodeo",
+            "MEDIUM":"Marker",
             "DESCRIPTION":"Live Drawing",
             "CATEGORY":"Drawing",
             "ORIENTATION":"portrait"
@@ -180,6 +345,13 @@
             "ORIENTATION":"portrait"
         },
         {
+            "FILENAME":"deer.jpg",
+            "NAME":"Deer",
+            "MEDIUM":"Graphic Design",
+            "CATEGORY":"Graphic Design",
+            "ORIENTATION":"landscape"
+        },
+        {
             "FILENAME":"flamingo.png",
             "NAME":"Flamingo",
             "MEDIUM":"Marker",
@@ -211,9 +383,9 @@
         },
         {
             "FILENAME":"holiday.png",
-            "NAME":"Holiday",
+            "NAME":"Jolly",
             "MEDIUM":"Pastel",
-            "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition, 2015",
+            "DESCRIPTION":"Silver Key Award for Scholastic Art & Writing Competition and Qualified for Visual Art Scholastic Event of Texas Art Education Association, 2015",
             "CATEGORY":"Still Life",
             "ORIENTATION":"landscape"
         },
@@ -278,6 +450,13 @@
             "FILENAME":"drapery.png",
             "NAME":"Drapery",
             "MEDIUM":"Graphite",
+            "CATEGORY":"Still Life",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"perspective.png",
+            "NAME":"Perspective",
+            "MEDIUM":"Charcoal",
             "CATEGORY":"Still Life",
             "ORIENTATION":"landscape"
         },
