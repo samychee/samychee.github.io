@@ -43,7 +43,7 @@ p {
     margin: 20px 0;
 }
 .navbar-default {
-    background-color: darkgray;
+    background-color: black;
     border-color: rgba(34, 34, 34, 0.05);
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     -webkit-transition: all 0.35s;
@@ -51,7 +51,8 @@ p {
     transition: all 0.35s;
 }
 .navbar-default .navbar-header .navbar-brand {
-    color: #f05f40;
+    /*color: #f05f40;*/
+    color: white;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     font-weight: 700;
     text-transform: uppercase;
