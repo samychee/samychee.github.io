@@ -1,5 +1,5 @@
 {
-    "CATEGORY_ORDER":["Portrait", "Concentration", "Animal", "Landscape", "Still Life", "Drawing", "Graphic Design"],
+    "CATEGORY_ORDER":["Portrait", "Concentration", "Animal", "Landscape", "Still Life", "Figure Drawing", "Graphic Design"],
     "IMAGES":[
         {
             "FILENAME":"the-maidens-prayer.png",
@@ -196,7 +196,7 @@
             "MEDIUM":"Charcoal",
             "NAME":"Man",
             "DESCRIPTION":"Live Drawing",
-            "CATEGORY":"Drawing",
+            "CATEGORY":"Figure Drawing",
             "ORIENTATION":"landscape"
         },
         {
@@ -204,7 +204,7 @@
             "NAME":"Woman",
             "MEDIUM":"Charcoal",
             "DESCRIPTION":"Live Drawing",
-            "CATEGORY":"Drawing",
+            "CATEGORY":"Figure Drawing",
             "ORIENTATION":"portrait"
         },
         {
@@ -212,7 +212,7 @@
             "NAME":"Woman",
             "MEDIUM":"Charcoal",
             "DESCRIPTION":"Live Drawing",
-            "CATEGORY":"Drawing",
+            "CATEGORY":"Figure Drawing",
             "ORIENTATION":"portrait"
         },
         {
@@ -220,7 +220,7 @@
             "NAME":"Man",
             "MEDIUM":"Charcoal",
             "DESCRIPTION":"Live Drawing",
-            "CATEGORY":"Drawing",
+            "CATEGORY":"Figure Drawing",
             "ORIENTATION":"portrait"
         },
         {
@@ -228,7 +228,7 @@
             "NAME":"Man",
             "MEDIUM":"Charcoal",
             "DESCRIPTION":"Live Drawing",
-            "CATEGORY":"Drawing",
+            "CATEGORY":"Figure Drawing",
             "ORIENTATION":"portrait"
         },
         {
@@ -236,7 +236,7 @@
             "NAME":"Woman",
             "MEDIUM":"Charcoal",
             "DESCRIPTION":"Live Drawing",
-            "CATEGORY":"Drawing",
+            "CATEGORY":"Figure Drawing",
             "ORIENTATION":"portrait"
         },
         {
@@ -244,7 +244,7 @@
             "NAME":"Woman",
             "MEDIUM":"Charcoal",
             "DESCRIPTION":"Live Drawing",
-            "CATEGORY":"Drawing",
+            "CATEGORY":"Figure Drawing",
             "ORIENTATION":"portrait"
         },
         {
@@ -252,7 +252,7 @@
             "NAME":"Rodeo",
             "MEDIUM":"Graphite",
             "DESCRIPTION":"Live Drawing",
-            "CATEGORY":"Drawing",
+            "CATEGORY":"Figure Drawing",
             "ORIENTATION":"portrait"
         },
         {
@@ -260,7 +260,7 @@
             "NAME":"Man",
             "MEDIUM":"Marker",
             "DESCRIPTION":"Live Drawing",
-            "CATEGORY":"Drawing",
+            "CATEGORY":"Figure Drawing",
             "ORIENTATION":"portrait"
         },
         {
@@ -268,7 +268,7 @@
             "NAME":"Woman",
             "MEDIUM":"Marker",
             "DESCRIPTION":"Live Drawing",
-            "CATEGORY":"Drawing",
+            "CATEGORY":"Figure Drawing",
             "ORIENTATION":"portrait"
         },
         {
@@ -317,6 +317,13 @@
         {
             "FILENAME":"deer.png",
             "NAME":"Deer",
+            "MEDIUM":"Graphic Design",
+            "CATEGORY":"Graphic Design",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"business-card.png",
+            "NAME":"Business Card",
             "MEDIUM":"Graphic Design",
             "CATEGORY":"Graphic Design",
             "ORIENTATION":"landscape"
