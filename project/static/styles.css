@@ -74,17 +74,16 @@ p {
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
     color: #f05f40 !important;
-    /*background-color: transparent;*/
-    background-color: darkgray;
+    background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
 .navbar-default .nav > li.active > a:focus:hover {
-    /*background-color: transparent;*/
-    background-color: darkgray;
+    background-color: transparent;
 }
 @media (min-width: 768px) {
     .navbar-default.affix {
-        background-color: white;
+        /*background-color: white;*/
+        background-color: black;
         border-color: rgba(34, 34, 34, 0.05);
     }
     .navbar-default.affix .navbar-header .navbar-brand {
