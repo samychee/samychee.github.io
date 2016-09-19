@@ -10,7 +10,7 @@
 
   <div class="row">
   {% for category in ordering %}
-    <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+    <div class="col-lg-3 col-md-3 col-xs-6 thumb">
       <h3 class="category-header">{{ categories[category].CATEGORY }}</h2>
       <a href="{{ url_for('category', category_name=categories[category].CATEGORY + '.html') }}" class="thumbnail">
         <img src="{{ url_for('static', filename='images/thumbnail/' + categories[category].FILENAME) }}" class="img-thumbnail">
