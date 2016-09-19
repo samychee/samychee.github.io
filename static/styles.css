@@ -65,7 +65,6 @@ p {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 13px;
-/*    color: #222222;*/
     color: white;
 }
 .navbar-default .nav > li > a:hover,
@@ -83,7 +82,7 @@ p {
 }
 @media (min-width: 768px) {
     .navbar-default.affix {
-        background-color: white;
+        background-color: darkgray;
         border-color: rgba(34, 34, 34, 0.05);
     }
     .navbar-default.affix .navbar-header .navbar-brand {
