@@ -57,7 +57,7 @@ p {
 .navbar-default .navbar-header .navbar-brand {
     color: white;
     font-family: 'Kalam', cursive, sans-serif;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     font-size: 30px;
     font-weight: 800;
 }
@@ -162,7 +162,6 @@ header .header-content .header-content-inner p {
     }
 }
 .btn-default {
-/*    color: #222222;*/
     color: white;
     background-color: #ffffff;
     border-color: #ffffff;
@@ -211,7 +210,6 @@ fieldset[disabled] .btn-default.active {
     background-color: #222222;
 }
 .btn-primary {
-    /*color: #ffffff;*/
     color: #000000;
     background-color: #f05f40;
     border-color: #f05f40;
@@ -225,7 +223,6 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    /*color: #ffffff;*/
     color: #000000;
     background-color: #ee4b28;
     border-color: #ed431f;
