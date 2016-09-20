@@ -14,14 +14,6 @@
             "NAME":"Fowl Play",
             "MEDIUM":"Oil",
             "DESCRIPTION":"Finalist for Rodeo Visual Art Competition in Fort Bend ISD, 2016",
-            "CATEGORY":"Animal",
-            "ORIENTATION":"portrait"
-        },
-        {
-            "FILENAME":"rodeo2.jpg",
-            "NAME":"Fowl Play",
-            "MEDIUM":"Oil",
-            "DESCRIPTION":"Finalist for Rodeo Visual Art Competition in Fort Bend ISD, 2016",
             "CATEGORY":"Portrait",
             "ORIENTATION":"portrait"
         },
@@ -120,14 +112,6 @@
             "MEDIUM":"Oil",
             "DESCRIPTION":"Color Price chosen to participate in the final round of the 2nd Youth World Cup Live Painting Competition, 2013",
             "CATEGORY":"Portrait",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"searching-for-dreams.png",
-            "NAME":"Searching for Dreams",
-            "MEDIUM":"Oil",
-            "DESCRIPTION":"Color Price chosen to participate in the final round of the 2nd Youth World Cup Live Painting Competition, 2013",
-            "CATEGORY":"Landscape",
             "ORIENTATION":"landscape"
         },
         {
@@ -446,14 +430,14 @@
         },
         {
             "FILENAME":"acrylic-still-life1.png",
-            "NAME":"Still Life",
+            "NAME":"Flower",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Still Life",
             "ORIENTATION":"portrait"
         },
         {
             "FILENAME":"acrylic-still-life2.jpg",
-            "NAME":"Still Life",
+            "NAME":"Flower",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Still Life",
             "ORIENTATION":"landscape"

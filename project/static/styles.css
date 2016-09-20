@@ -45,7 +45,7 @@ p {
     margin: 20px 0;
 }
 .navbar-default {
-    background-color: black;
+    background-color: #222222;
     border-color: rgba(34, 34, 34, 0.05);
     font-family: 'Kalam', cursive, sans-serif;
     text-transform: uppercase;
@@ -56,9 +56,10 @@ p {
 }
 .navbar-default .navbar-header .navbar-brand {
     color: white;
-    font-family: 'Kalam', cursive, sans-serif;
+    /*font-family: 'Kalam', cursive, sans-serif;*/
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     text-transform: uppercase;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 800;
 }
 .navbar-default .navbar-header .navbar-brand:hover,
