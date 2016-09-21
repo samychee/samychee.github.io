@@ -1,5 +1,5 @@
 {
-    "CATEGORY_ORDER":["Portrait", "Concentration", "Animal", "Landscape", "Still Life", "Figure Drawing", "Graphic Design", "Animation"],
+    "CATEGORY_ORDER":["Portrait", "Landscape", "Concentration", "Animal", "Still Life", "Figure Drawing", "Graphic Design", "Animation"],
     "IMAGES":[
         {
             "FILENAME":"the-maidens-prayer.png",
@@ -110,8 +110,15 @@
             "FILENAME":"searching-for-dreams.png",
             "NAME":"Searching for Dreams",
             "MEDIUM":"Oil",
-            "DESCRIPTION":"Color Price chosen to participate in the final round of the 2nd Youth World Cup Live Painting Competition, 2013",
+            "DESCRIPTION":"Color Prize chosen to participate in the final round of the 2nd Youth World Cup Live Painting Competition, 2013",
             "CATEGORY":"Portrait",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"acrylic-landscape2.jpg",
+            "NAME":"Landscape",
+            "MEDIUM":"Acrylic",
+            "CATEGORY":"Landscape",
             "ORIENTATION":"landscape"
         },
         {
@@ -119,14 +126,6 @@
             "NAME":"My Home Town",
             "MEDIUM":"Acrylic",
             "DESCRIPTION":"Live Drawing. 2nd Place Award for Art Competition in Houston Chinatown",
-            "CATEGORY":"Landscape",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"acrylic-quiet-park.jpg",
-            "NAME":"Quiet Park",
-            "MEDIUM":"Acrylic",
-            "DESCRIPTION":"Live Drawing",
             "CATEGORY":"Landscape",
             "ORIENTATION":"landscape"
         },
@@ -142,6 +141,14 @@
             "FILENAME":"oil-landscape.jpg",
             "NAME":"Landscape",
             "MEDIUM":"Oil",
+            "CATEGORY":"Landscape",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"acrylic-quiet-park.jpg",
+            "NAME":"Quiet Park",
+            "MEDIUM":"Acrylic",
+            "DESCRIPTION":"Live Drawing",
             "CATEGORY":"Landscape",
             "ORIENTATION":"landscape"
         },
@@ -370,13 +377,6 @@
             "NAME":"Perspective",
             "MEDIUM":"Charcoal",
             "CATEGORY":"Still Life",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"acrylic-landscape2.jpg",
-            "NAME":"Landscape",
-            "MEDIUM":"Acrylic",
-            "CATEGORY":"Landscape",
             "ORIENTATION":"landscape"
         },
         {
