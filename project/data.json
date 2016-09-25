@@ -461,11 +461,9 @@
             "NAME":"Bolt Dance",
             "MEDIUM":"Digital Media",
             "CATEGORY":"Animation",
-            "ORIENTATION":"landscape"
+            "ORIENTATION":"landscape",
+            "CONTENT_TYPE":"video"
         }
     ],
-    "BIO1":"From the time Gina Chee was a little kid, she had a passion for drawing. From early elementary school, she began learning graphite, pastel, and watercolor and later studied painting in middle school, with studio art teacher Xinsheng Wang. It was there where she fell in love with acrylic and oil painting, and it quickly became her most favorite and strongest mediums. In high school, Gina's technical skills and aesthetic further developed, as she joined her high school's strong art program. Since then, she has won many awards in art, including Gold and Silver Keys in the Regional Scholastic Art and Writing Awards, 1st place Houston Young Artist competition, Finalist in the Houston Livestock Show and Rodeo School Art Contest, State qualifier in Visual Arts Scholastic Contest, and more.",
-    "BIO2":"Along with art, Gina has other interests in the fine arts field. She played the piano and danced ballet and Chinese folk dance for approximately eight years, also winning awards in those areas. Since her sophomore year of high school she has taken computer science classes, learning the Java language and logical problem solving.",
-    "BIO3":"Gina has been a member of the National Art Honor Society at her high school for the past four years, and has accumulated many hours of volunteer service in the arts, such as face-painting at elementary schools, assisting at the Bayou City Art Festival, and designing and painting murals for her school’s homecoming dance, International Festival, and Retrospective art show. During the summer of 2015, Gina volunteered teaching little kid’s art at a daycare in China. She has also planned and extended a non-profit organization, Music Doing Good, to the Sugar Land area, providing volunteer and scholarship opportunities to fellow musicians in her city.",
     "PROFILE_PICTURE":"profile_picture.png"
 }

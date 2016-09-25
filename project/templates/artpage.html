@@ -10,9 +10,13 @@
 </div>
 <div class="container-fluid">
   <div class="col-md-{{ 5 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 7}} col-xs-10 col-xs-offset-1">
-    <a href="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}">
+    {% if image.CONTENT_TYPE == 'video' %}
+    <video src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio artpage-video" type="video/mp4">
       <img src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio">
-    </a>
+    </video>
+    {% else %}
+    <img src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio">
+    {% endif %}
   </div>
   <div class="col-xs-offset-1 col-md-offset-0"></div>
   <div class="col-md-{{ 5 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 3 }} col-xs-10 col-xs-offset-1 col-md-offset-0">

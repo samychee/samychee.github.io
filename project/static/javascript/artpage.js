@@ -1,4 +1,16 @@
 document.addEventListener("DOMContentLoaded", function() {
+    var videos = document.getElementsByClassName('artpage-video');
+    for (var i = 0; i < videos.length; i++) {
+        var video = videos[i];
+        video.onclick = function() {
+            if (video.paused) {
+                video.play();
+            } else {
+                video.pause();
+            }
+        }
+    }
+
     var back_button = document.getElementsByClassName('carousel-button-back');
     var forward_button = document.getElementsByClassName('carousel-button-forward');
     if (back_button.length) {
