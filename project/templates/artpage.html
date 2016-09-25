@@ -11,7 +11,7 @@
 <div class="container-fluid">
   <div class="col-md-{{ 5 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 7}} col-xs-10 col-xs-offset-1">
     {% if image.CONTENT_TYPE == 'video' %}
-    <video src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio artpage-video" type="video/mp4">
+    <video src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio artpage-video" type="video/mp4" autoplay>
       <img src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio">
     </video>
     {% else %}
