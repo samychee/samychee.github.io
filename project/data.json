@@ -69,42 +69,49 @@
             "NAME":"Depression",
             "MEDIUM":"Oil",
             "CATEGORY":"Concentration",
-            "ORIENTATION":"portrait"
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"pain.png",
+            "NAME":"Pain",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Concentration",
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"anger.png",
             "NAME":"Anger",
             "MEDIUM":"Oil",
             "CATEGORY":"Concentration",
-            "ORIENTATION":"portrait"
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"guilt.png",
             "NAME":"Guilt",
             "MEDIUM":"Oil",
             "CATEGORY":"Concentration",
-            "ORIENTATION":"portrait"
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"self-worth.png",
             "NAME":"Self Worth",
             "MEDIUM":"Oil",
             "CATEGORY":"Concentration",
-            "ORIENTATION":"portrait"
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"contentment.png",
             "NAME":"Contentment",
             "MEDIUM":"Oil",
             "CATEGORY":"Concentration",
-            "ORIENTATION":"portrait"
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"acceptance.png",
             "NAME":"Acceptance",
             "MEDIUM":"Oil",
             "CATEGORY":"Concentration",
-            "ORIENTATION":"portrait"
+            "ORIENTATION":"landscape"
         },
         {
             "FILENAME":"searching-for-dreams.png",
