@@ -462,6 +462,15 @@
             "MEDIUM":"Mix Media",
             "CATEGORY":"Still Life",
             "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"bolt_dance.mp4",
+            "LINK":"https://www.youtube.com/embed/ZMv9ddxmeuI",
+            "NAME":"Bolt Dance",
+            "MEDIUM":"Digital Media",
+            "CATEGORY":"Animation",
+            "ORIENTATION":"landscape",
+            "CONTENT_TYPE":"video"
         }
     ],
     "PROFILE_PICTURE":"profile_picture.png"

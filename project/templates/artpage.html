@@ -10,6 +10,16 @@
 </div>
 <div class="container-fluid">
   <div class="col-md-{{ 5 if image.ORIENTATION and image.ORIENTATION == 'portrait' else 7}} col-xs-10 col-xs-offset-1">
+    {% if image.CONTENT_TYPE == 'video' %}
+      {% if image.LINK %}
+      <iframe width="800" height="450" src="{{ image.LINK }}" frameborder="0" class="img-portfolio" allowfullscreen></iframe>
+      {% else %}
+      {# if there is no youtube video link, use this #}
+      <video src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio artpage-video" type="video/mp4" autoplay>
+        <img src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio">
+      </video>
+      {% endif %}
+    {% else %}
     <img src="{{ url_for('static', filename='images/portfolio/' + image.FILENAME) }}" class="img-portfolio">
   </div>
   <div class="col-xs-offset-1 col-md-offset-0"></div>
