@@ -373,6 +373,13 @@
             "ORIENTATION":"portrait"
         },
         {
+            "FILENAME":"mural.png",
+            "NAME":"Mural",
+            "MEDIUM":"Acrylic",
+            "CATEGORY":"Animal",
+            "ORIENTATION":"portrait"
+        },
+        {
             "FILENAME":"drapery.png",
             "NAME":"Drapery",
             "MEDIUM":"Graphite",
