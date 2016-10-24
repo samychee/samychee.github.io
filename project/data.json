@@ -320,6 +320,20 @@
             "ORIENTATION":"landscape"
         },
         {
+            "FILENAME":"pattern.png",
+            "NAME":"Pattern",
+            "MEDIUM":"Digital Media",
+            "CATEGORY":"Graphic Design",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"pattern2.png",
+            "NAME":"Pattern",
+            "MEDIUM":"Digital Media",
+            "CATEGORY":"Graphic Design",
+            "ORIENTATION":"portrait"
+        },
+        {
             "FILENAME":"business-card.png",
             "NAME":"Business Card",
             "MEDIUM":"Digital Media",
