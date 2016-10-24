@@ -1,5 +1,5 @@
 {
-    "CATEGORY_ORDER":["Portrait", "Landscape", "Concentration", "Animal", "Still Life", "Figure Drawing", "Graphic Design", "Animation"],
+    "CATEGORY_ORDER":["Portrait", "Landscape", "Concentration", "Animal", "Still Life", "Figure Drawing", "Graphic Design"],
     "IMAGES":[
         {
             "FILENAME":"the-maidens-prayer.png",
@@ -277,6 +277,15 @@
             "ORIENTATION":"portrait"
         },
         {
+            "FILENAME":"bolt_dance.mp4",
+            "LINK":"https://www.youtube.com/embed/ZMv9ddxmeuI",
+            "NAME":"Bolt Dance",
+            "MEDIUM":"Digital Media",
+            "CATEGORY":"Graphic Design",
+            "ORIENTATION":"landscape",
+            "CONTENT_TYPE":"video"
+        },
+        {
             "FILENAME":"cultural-appropriation1.png",
             "NAME":"Cultural Appropriation",
             "MEDIUM":"Digital Media",
@@ -483,15 +492,6 @@
             "MEDIUM":"Mix Media",
             "CATEGORY":"Still Life",
             "ORIENTATION":"portrait"
-        },
-        {
-            "FILENAME":"bolt_dance.mp4",
-            "LINK":"https://www.youtube.com/embed/ZMv9ddxmeuI",
-            "NAME":"Bolt Dance",
-            "MEDIUM":"Digital Media",
-            "CATEGORY":"Animation",
-            "ORIENTATION":"landscape",
-            "CONTENT_TYPE":"video"
         }
     ],
     "PROFILE_PICTURE":"profile_picture.png"
