@@ -58,6 +58,13 @@
             "ORIENTATION":"portrait"
         },
         {
+            "FILENAME":"guilt.png",
+            "NAME":"Guilt",
+            "MEDIUM":"Oil",
+            "CATEGORY":"Concentration",
+            "ORIENTATION":"landscape"
+        },
+        {
             "FILENAME":"denial.png",
             "NAME":"Denial",
             "MEDIUM":"Oil",
@@ -81,13 +88,6 @@
         {
             "FILENAME":"anger.png",
             "NAME":"Anger",
-            "MEDIUM":"Oil",
-            "CATEGORY":"Concentration",
-            "ORIENTATION":"landscape"
-        },
-        {
-            "FILENAME":"guilt.png",
-            "NAME":"Guilt",
             "MEDIUM":"Oil",
             "CATEGORY":"Concentration",
             "ORIENTATION":"landscape"
@@ -179,6 +179,13 @@
             "NAME":"Landscape",
             "MEDIUM":"Acrylic",
             "CATEGORY":"Landscape",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"drapery-with-emphasis.jpg",
+            "NAME":"Drapery with Emphasis",
+            "MEDIUM":"Pastel",
+            "CATEGORY":"Still Life",
             "ORIENTATION":"portrait"
         },
         {
@@ -277,6 +284,13 @@
             "ORIENTATION":"portrait"
         },
         {
+            "FILENAME":"cute-as-a-button.png",
+            "NAME":"Cute as a Button",
+            "MEDIUM":"Scratch Board",
+            "CATEGORY":"Animal",
+            "ORIENTATION":"landscape"
+        },
+        {
             "FILENAME":"my-dog.png",
             "NAME":"My Dog",
             "MEDIUM":"Oil",
@@ -285,22 +299,8 @@
             "ORIENTATION":"portrait"
         },
         {
-            "FILENAME":"cute-as-a-button.png",
-            "NAME":"Cute as a Button",
-            "MEDIUM":"Scratch Board",
-            "CATEGORY":"Animal",
-            "ORIENTATION":"landscape"
-        },
-        {
             "FILENAME":"drapery-pastel.jpg",
             "NAME":"Drapery",
-            "MEDIUM":"Pastel",
-            "CATEGORY":"Still Life",
-            "ORIENTATION":"portrait"
-        },
-        {
-            "FILENAME":"drapery-with-emphasis.jpg",
-            "NAME":"Drapery with Emphasis",
             "MEDIUM":"Pastel",
             "CATEGORY":"Still Life",
             "ORIENTATION":"portrait"
