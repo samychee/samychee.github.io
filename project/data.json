@@ -1,5 +1,5 @@
 {
-    "CATEGORY_ORDER":["Portrait", "Landscape", "Concentration", "Animal", "Still Life", "Figure Drawing", "Graphic Design"],
+    "CATEGORY_ORDER":["Portrait", "Landscape", "Concentration", "Animal", "Still Life", "Figure Drawing", "Graphic Design", "Taylor the Tiger"],
     "IMAGES":[
         {
             "FILENAME":"the-maidens-prayer.png",
@@ -492,6 +492,139 @@
             "MEDIUM":"Mix Media",
             "CATEGORY":"Still Life",
             "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"taylor-0.png",
+            "NAME":"Taylor the Tiger",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"portrait"
+        },
+        {
+            "FILENAME":"taylor-1.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-2.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-3.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-4.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-5.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-6.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-7.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-8.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-9.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-10.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-11.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-12.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-13.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-14.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-15.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-16.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-17.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-18.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-19.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-20.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
+        },
+        {
+            "FILENAME":"taylor-21.png",
+            "MEDIUM":"Mix Media",
+            "CATEGORY":"Taylor the Tiger",
+            "ORIENTATION":"landscape"
         }
     ],
     "PROFILE_PICTURE":"profile_picture.png"
