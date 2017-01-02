@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ image.NAME }}{% endblock %}
-{% block javascript %}<script src="{{ url_for('static', filename='javascript/artpage.js') }}"></script>{% endblock %}
+{% block javascript %}<script async src="{{ url_for('static', filename='javascript/artpage.js') }}"></script>{% endblock %}
 {% block content %}
 <div class="carousel-container carousel-button-back">
   <a href="{{ url_for('image_page', image_id=image.back.id + '.html') }}" class="carousel-button">
