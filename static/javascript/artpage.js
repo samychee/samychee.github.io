@@ -1,18 +1,1 @@
-$(document).ready(function() {
-    var back_button = $('.carousel-button-back > .carousel-button').first();
-    var forward_button = $('.carousel-button-forward > .carousel-button').first();
-    $(document).keydown(function(e) {
-        switch (e.keyCode) {
-            case 37:
-                if (back_button) {
-                    window.location.href = back_button.attr('href');
-                }
-                break;
-            case 39:
-                if (forward_button) {
-                    window.location.href = forward_button.attr('href');
-                }
-                break;
-        }
-    });
-});
+$(document).ready(function(){var b=$(".carousel-button-back > .carousel-button").first();var a=$(".carousel-button-forward > .carousel-button").first();$(document).keydown(function(c){switch(c.keyCode){case 37:if(b){window.location.href=b.attr("href")}break;case 39:if(a){window.location.href=a.attr("href")}break}})});
